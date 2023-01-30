@@ -3,8 +3,8 @@
 ## Aims and objectives
 The aim of the project is to develop a computer vision software using deep learning techniques 
 that is able to perform real-time object detection in different driving conditions.
-In order to achieve the aim of the thesis, state-of-the-art YOLOv4 object detection system has
-been implemented using Python frameworks: Darknet and OpenCV. It has been trained on large 
+In order to achieve the project goal, state-of-the-art YOLOv4 object detection system has
+been implemented using Python frameworks: *Darknet* and *OpenCV*. It has been trained on large 
 autonomous driving dataset, consisting of 70,000 annotated images, captured during driving in 
 different traffic conditions.
 Next, it was evaluated using validation and testing data. I have also experimented with testing the 
