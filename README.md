@@ -14,7 +14,7 @@ the software achieved good performance values for the most important classes of 
 road, that is vehicles, traffic signs and pedestrians
 
 ## Data
-BerkeleyDeepDrive100K (BDD100K) is an open-source dataset for autonomous driving that consists of 100,000 HD videos that were recorded under different road and weather conditions, as well as at different times and seasons (Yu et al. 2020). Each video lasts about 40 seconds, has 720p resolution at 30 frames per second. 
+BerkeleyDeepDrive100K (BDD100K) is an open-source dataset for autonomous driving that consists of 100,000 HD videos that were recorded under different road and weather conditions, as well as at different times and seasons [(Yu et al. 2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.pdf). Each video lasts about 40 seconds, has 720p resolution at 30 frames per second. 
 The data collection was done in four different locations (of which three are in the vicinity of each other), that is: 
 San Francisco, Berkeley, Bay Area, and New York. The areas of data collection have been illustrated below: 
 
