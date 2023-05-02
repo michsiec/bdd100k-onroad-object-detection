@@ -11,7 +11,7 @@ Next, it was evaluated using validation and testing data. I have also experiment
 object detector on the video data collected by myself by an on-board car camera. The results has 
 shown that the object detection training and evaluation has been accomplished successfully, and 
 the software achieved good performance values for the most important classes of object on the 
-road, that is vehicles, traffic signs and pedestrians
+road, that is vehicles, traffic signs and pedestrians.
 
 ## Data
 BerkeleyDeepDrive100K (BDD100K) is an open-source dataset for autonomous driving that consists of 100,000 HD videos that were recorded under different road and weather conditions, as well as at different times and seasons [(Yu et al. 2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.pdf). Each video lasts about 40 seconds, has 720p resolution at 30 frames per second. 
@@ -24,4 +24,6 @@ The dataset contains extensive annotations regarding the weather type, scene, ho
 
 The data and annotations can be obtained [here](https://bdd-data.berkeley.edu/) after logging in and agreeing to the BDD100K license. 
 The authors provided the data available for downloading in different subsets, depending on particular task that one wants to undertake.
-For example, it is possible to download 100,000 images, which are the frames at the 10th second in the videos, or download files that are dedicated for specific task
+For example, it is possible to download 100,000 images, which are the frames at the 10th second in the videos, or download files that are dedicated for specific task.
+
+GitHub Repository of the dataset can be found [here](https://github.com/bdd100k/bdd100k).
