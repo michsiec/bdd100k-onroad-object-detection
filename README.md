@@ -1,6 +1,6 @@
 # Applying Computer Vision Algorithm for Object Detection in Autonomous Driving
 
-## Aims and objectives
+## Aims and Objectives
 The aim of the project is to develop a computer vision software using deep learning techniques 
 that is able to perform real-time object detection in different driving conditions.
 In order to achieve the project goal, state-of-the-art YOLOv4 object detection system has
